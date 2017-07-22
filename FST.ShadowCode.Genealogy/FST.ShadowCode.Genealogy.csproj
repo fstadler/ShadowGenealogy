@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C28D8FF7-5219-4F63-8AD7-EEAC097FC12A}</ProjectGuid>
+    <ProjectGuid>{DD6D9271-C761-49D6-BE5E-CF85A6DC4EF0}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>ShadowGenealogy</RootNamespace>
-    <AssemblyName>ShadowGenealogy</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <RootNamespace>FST.ShadowCode.Genealogy</RootNamespace>
+    <AssemblyName>FST.ShadowCode.Genealogy</AssemblyName>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <WarningLevel>4</WarningLevel>

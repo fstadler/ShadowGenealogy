@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ShadowGenealogy.Properties
+namespace FST.ShadowCode.Genealogy.Properties
 {
 
 

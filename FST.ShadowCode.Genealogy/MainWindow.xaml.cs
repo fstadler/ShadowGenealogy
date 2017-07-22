@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace ShadowGenealogy
+namespace FST.ShadowCode.Genealogy
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
